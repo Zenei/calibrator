@@ -1,5 +1,5 @@
 # Calibrator
-This is a module in a much bigger project dealing with data from gateways of  Automated Weather Stations in East Africa.
+This is a module in a much bigger project dealing with data from gateways of  Automated Weather Stations in East Africa. It's purpose is to compare data collected manually with data received from automatically via gateways from weather stations. Manually collected data is considered accurate, since it does not suffer from signal interferance among other things.
 
 ## Installation
 This does not need installation. Cloning or downloading the repository is enough.
